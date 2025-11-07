@@ -1,0 +1,6 @@
+positive	This product is amazing and I love it.
+negative	I am very disappointed with the result.
+neutre	The book was delivered yesterday.
+positive	Great experience overall!
+negative	Did not meet my expectations at all.
+neutre	The presentation was given in the afternoon.

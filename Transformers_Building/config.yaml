@@ -1,0 +1,12 @@
+data_path: data/input.txt
+batch_size: 32
+block_size: 128
+embed_dim: 256
+num_layers: 4
+num_heads: 8
+ff_hidden_dim: 1024
+dropout: 0.1
+lr: 0.0003
+epochs: 50
+checkpoint_every: 5
+weight_decay: 0.01
