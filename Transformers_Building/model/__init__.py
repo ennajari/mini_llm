@@ -1,2 +1,0 @@
-from .transformer import GPT
-
