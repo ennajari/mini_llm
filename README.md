@@ -259,14 +259,6 @@ Si vous avez des questions:
 2. Regardez les cellules de visualisation
 3. Expérimentez avec différents paramètres
 
-## Félicitations!
-
-Vous avez maintenant les outils pour comprendre et construire des LLMs modernes!
-
-**Next Steps:**
-- Part II: Decoder Architecture & Text Generation
-- Part III: Training at Scale
-- Part IV: Fine-tuning & Applications
 
 ---
 
